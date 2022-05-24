@@ -40,13 +40,13 @@ By the conclusion of this course, students will be able to:
 * Know how to use operating system services to enhance application code
 * Have a solid understanding of the classical Computer Science operating systems challenges
 
-| Grading           |      | | Grade Scale |    |
-|-------------------|------|-|-------------|----|
-| Homework and Labs | 35%  | | >= 90%      | A  |
-| Exams and Quizzes | 40%  | | 80% - 89%   | B  |
-| Final Exam        | 25%  | | 70% - 79%   | C  |
-|                   |      | | 60% - 69%   | D  |
-| **Total**         | 100% | | < 60%       | F  |
+| Grading           | Category Weight | | Grade Scale |    |
+|-------------------|-----------------|-|-------------|----|
+| Homework and Labs | 35%             | | >= 90%      | A  |
+| Exams and Quizzes | 40%             | | 80% - 89%   | B  |
+| Final Exam        | 25%             | | 70% - 79%   | C  |
+|                   |                 | | 60% - 69%   | D  |
+| **Total**         | 100%            | | < 60%       | F  |
 
 ### Exams
 
