@@ -67,7 +67,7 @@ Homework and lab assignments will be assigned approximately every other week, an
 * Labs will be graded on correct answers to required deliverables and/or the completeness of the assignment. Incomplete assignments may receive partial or no credit at the discretion of the instructor.
 * Students will be expected to read selections from the textbook for every lecture session. These readings should be done before class so that we can have a discussion on the topics during the lecture.
 * During exams, there will be *no bathroom breaks*. Please be sure to use the restroom prior to the start of the exam. If a student leaves the classroom before the exam has been concluded, that student forfeits the completion of the rest of their exam.
-* All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's own comments *will not receive any credit*.
+* All source code submitted must be adequately commented in order to receive credit. Source code which is not commented with the student's *own* comments *will not receive any credit*. **NO EXCEPTIONS**
 
 **Late assignments** will, at a minimum, be subject to a 10% reduction in grade *per day* that the assignment is late. I do not accept homework submissions via email, fax, or any other means than the deliverable requirements listed on the assignment specification.
 
